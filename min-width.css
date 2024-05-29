@@ -1,0 +1,17 @@
+section{
+    width: 50%;
+    float: left;
+}
+#box1{
+    background-color: green;
+
+}
+#box2{
+    background-color: blue;
+    
+}
+@media screen and (max-width: 600px){
+    section {
+        width: 100%;
+    }
+}

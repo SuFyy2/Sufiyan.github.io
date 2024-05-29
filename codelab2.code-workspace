@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../codelab2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sufiyan.github.io"
+	}
+}
